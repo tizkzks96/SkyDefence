@@ -34,3 +34,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+
+ProjectBR/Assets/Download/
+ProjectBR/Packages/
+ProjectBR/ProjectSettings
+ProjectBR/Assets/TextMesh Pro
+ProjectBR/Assets/Plugins
+ProjectBR/Assets/Tileset
+ProjectBR/Assets/Virtual Joystick Pack
